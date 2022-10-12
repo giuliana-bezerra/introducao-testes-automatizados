@@ -4,10 +4,10 @@ Esse projeto foi utilizado [nesse vídeo](https://youtu.be/N1UkkK4jIHM) para ilu
 
 ## Roteiro
 
-[x] Motivação para testar software
+- [x] Motivação para testar software
 
-[x] Tipos de teste: unidade vs integração
+- [x] Tipos de teste: unidade vs integração
 
-[x] Abordagens de teste: tradicional vs TDD
+- [x] Abordagens de teste: tradicional vs TDD
 
-[x] Prática: testando um serviço de criação de usuários
+- [x] Prática: testando um serviço de criação de usuários
