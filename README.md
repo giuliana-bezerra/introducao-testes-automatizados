@@ -1,6 +1,6 @@
 # Introdução aos testes automatizados com Spring Boot
 
-Esse projeto foi utilizado [nesse vídeo](https://youtu.be/N1UkkK4jIHM) para ilustrar a criação de testes automatizados com Spring Boot.
+Esse projeto foi criado [nesse aulão](https://youtu.be/N1UkkK4jIHM) para ilustrar a criação de testes automatizados com Spring Boot.
 
 ## Roteiro
 
